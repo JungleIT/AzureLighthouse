@@ -1,4 +1,4 @@
-# jungleitazurelighthouse
+# Jungle IT Azure Lighthouse
 Deploy Jungle IT Azure Lighthouse roles -
 Copy the raw subscription.paramater.json file, then click Deploy to Azure, simply paste the json file in the paramater section and apply
 
